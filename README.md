@@ -1,4 +1,4 @@
-# 📊 [Project Name] — Data Analytics Project
+# Data Analytics Project
 
 ## Overview
 This project analyzes [briefly describe dataset/domain, e.g., "retail sales transactions"] to uncover insights on [key business question, e.g., "customer purchasing behavior and revenue trends"]. The workflow covers the full analytics pipeline — from raw data ingestion to a polished, interactive dashboard and a written project report.
