@@ -1,7 +1,7 @@
 # Data Analytics Project
 
 ## Overview
-This project analyzes [briefly describe dataset/domain, e.g., "retail sales transactions"] to uncover insights on [key business question, e.g., "customer purchasing behavior and revenue trends"]. The workflow covers the full analytics pipeline — from raw data ingestion to a polished, interactive dashboard and a written project report.
+This project analyzes retail purchase transctions by customers from different cities and states in the US covering the four seasons (winter, summer, Fall, and Spring) to uncover insights on the factors driving purchases such as the revenue contributions by age groups, subscription patterns, loyalty, shipping, and impact of discounts. The workflow covers the full analytics pipeline — from raw data ingestion to a polished, interactive dashboard and a written project report.
 
 ## 🎯 Objectives
 - Clean and prepare raw data for analysis
@@ -55,12 +55,13 @@ Built an interactive dashboard to visualize key metrics and trends, enabling sta
 Compiled a summary report outlining methodology, key findings, and actionable recommendations based on the analysis.
 
 ## 📈 Key Insights
-- [Insight 1 — e.g., "Sales peak during Q4, driven by holiday promotions"]
-- [Insight 2 — e.g., "Top 20% of customers generate 60% of revenue"]
-- [Insight 3 — e.g., "Region X underperforms relative to marketing spend"]
+- 
+- 
+-
 
 ## 📌 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here)*
+<img width="1115" height="622" alt="interactive dashboard" src="https://github.com/user-attachments/assets/109c2179-ca2e-4f9f-ad2a-1cef5aac3204" />
+
 
 ## 🚀 How to Run This Project
 1. Clone this repository
@@ -77,5 +78,5 @@ Compiled a summary report outlining methodology, key findings, and actionable re
 - Final project report (PDF)
 
 ## 👤 Author
-**[Your Name]**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Email](mailto:your-email@example.com)
+**Brian Among'a **
+
